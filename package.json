@@ -1,11 +1,25 @@
 {
-  "name": "ms-slider",
+  "name": "react-slider-ms",
   "version": "1.0.0",
+  "description": "React Slider. Supports Horizontal and Vertical direction.",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
     "dist"
   ],
+  "keywords": [
+    "react",
+    "reactjs",
+    "reactJS",
+    "slider",
+    "Horizontal",
+    "Vertical",
+    "responsive",
+    "lightweight"
+  ],
+  "author": "Mayank Saxena <mayanksaxena90@gmail.com>",
+  "homepage": "https://github.com/mayanksaxena/react-slider-ms",
+  "license": "MIT",
   "scripts": {
     "start": "start-storybook -p 6006 -s public",
     "build-react": "react-scripts build",
