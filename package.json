@@ -1,6 +1,6 @@
 {
   "name": "react-slider-ms",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Slider. Supports Horizontal and Vertical direction.",
   "main": "dist/index.js",
   "module": "dist/index.js",
