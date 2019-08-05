@@ -1,0 +1,39 @@
+.slider-section-container {
+    float: left;
+    margin-top: 100px;
+    position: relative;
+    width: 100%;
+}
+
+.slider-content {
+    margin: 0 auto;
+    overflow: hidden;
+}
+.slider-content ul {
+    float: left;
+    margin: 0;
+    padding: 0;
+    transition: margin 0.5s;
+}
+.slider-content ul li {
+    list-style: none;
+    float: left;
+}
+
+.slider-controls button {
+    height: 64px;
+    width: 64px;
+
+}
+.slider-controls button.next {
+    right: 0;
+}
+.slider-controls button.prev {
+    left: 0;
+}
+
+.customItem {
+    width: 300px;
+    text-align: "center";
+    padding: 5px;
+}
