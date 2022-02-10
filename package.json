@@ -60,7 +60,7 @@
     "eslint-plugin-react": "7.14.2",
     "husky": "^2.7.0",
     "markserv": "^1.15.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "npm": "6.5.0",
     "prettier": "^1.18.1",
     "pretty-quick": "^1.11.0",
